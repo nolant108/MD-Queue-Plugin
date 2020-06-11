@@ -1,0 +1,6 @@
+name: QueueList
+version: 0.0.1
+main: com.magicaldreams.queuelist.Main
+api-version: 1.14
+authors: [Nolant108, MD Dev Team]
+website: https://magicaldreams.us
